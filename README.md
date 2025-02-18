@@ -15,7 +15,7 @@ The project addresses the inefficiencies of traditional manual waste sorting by 
 
 ### Part 2: Dataset
 - **Source:**  
-  The RealWaste dataset is obtained from the UCI Machine Learning Repository (Wollongong City Council) and contains 4,752 colored waste images (524x524 pixels) across 9 classes.
+  The [RealWaste dataset](https://archive.ics.uci.edu/dataset/908/realwaste) is obtained from the UCI Machine Learning Repository (Wollongong City Council) and contains 4,752 colored waste images (524x524 pixels) across 9 classes.
 - **Dataset Details:**  
   The classes include: Cardboard, Food Organics, Glass, Metal, Miscellaneous Trash, Paper, Plastic, Textile Trash, and Vegetation.
 - **Handling Complexity:**  
